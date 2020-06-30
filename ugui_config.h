@@ -1,6 +1,8 @@
 #ifndef __UGUI_CONFIG_H
 #define __UGUI_CONFIG_H
 
+#include <stdint.h> // This works for most systems using relatively modern compilers.
+
 /* -------------------------------------------------------------------------------- */
 /* -- CONFIG SECTION                                                             -- */
 /* -------------------------------------------------------------------------------- */
